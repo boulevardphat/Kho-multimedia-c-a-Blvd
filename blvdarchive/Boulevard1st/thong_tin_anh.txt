@@ -1,0 +1,102 @@
+Đường dẫn file                                               | Độ phân giải    | Tỷ lệ (Ratio)
+----------------------------------------------------------------------------------------------------
+Employer\[#BLVD] #BLVD16\1.png                               | 4000x4000       | 1:1
+Employer\[#BLVD] #BLVD16\10.png                              | 4000x4000       | 1:1
+Employer\[#BLVD] #BLVD16\2.png                               | 4000x4000       | 1:1
+Employer\[#BLVD] #BLVD16\3.png                               | 4000x4000       | 1:1
+Employer\[#BLVD] #BLVD16\4.png                               | 4000x4000       | 1:1
+Employer\[#BLVD] #BLVD16\5.png                               | 4000x4000       | 1:1
+Employer\[#BLVD] #BLVD16\6.png                               | 4000x4000       | 1:1
+Employer\[#BLVD] #BLVD16\7.png                               | 4000x4000       | 1:1
+Employer\[#BLVD] #BLVD16\8.png                               | 4000x4000       | 1:1
+Employer\[#BLVD] #BLVD16\9.png                               | 4000x4000       | 1:1
+Employer\[#BLVD] #BLVD17\1.png                               | 5000x5000       | 1:1
+Employer\[#BLVD] #BLVD17\2.png                               | 5000x5000       | 1:1
+Employer\[#BLVD] #BLVD17\3.png                               | 5000x5000       | 1:1
+Employer\[#BLVD] #BLVD17\4.png                               | 5000x5000       | 1:1
+Employer\[#BLVD] #BLVD17\5.png                               | 5000x5000       | 1:1
+Employer\[#BLVD] #BLVD17\6.png                               | 5000x5000       | 1:1
+Employer\[#BLVD] #BLVD17\7.png                               | 5000x5000       | 1:1
+Employer\[#BLVD] #BLVD17\8.png                               | 5000x5000       | 1:1
+Employer\[HVOC] BONDING\[HVOC] BONDING.png                   | 10000x10000     | 1:1
+Employer\[HVOC] Bưu điện HVOC\Chính.png                      | 5000x5000       | 1:1
+Employer\[HVOC] Bưu điện HVOC\Quảng bá.png                   | 1920x1080       | 16:9
+Employer\[HVOC] Bưu điện HVOC\Ảnh bìa Facebook.png           | 3200x800        | 4:1
+Employer\[HVOC] HVOC Club Day\Khung ptb biển.png             | 880x2650        | 88:265
+Employer\[HVOC] HVOC Club Day\Khung ptb núi.png              | 880x2650        | 88:265
+Employer\[HVOC] HVOC DDO 7\Dây đeo bản phụ.png               | 9354x156        | 1559:26
+Employer\[HVOC] HVOC DDO 7\Dây đeo chính thức.png            | 9354x156        | 1559:26
+Employer\[HVOC] HVOC DDO 7\Khung avatar.png                  | 5000x5000       | 1:1
+Employer\[HVOC] HVOC DDO 7\Poster.png                        | 1414x2000       | 707:1000
+Employer\[HVOC] HVOC DDO 7\Template chính.png                | 1920x1080       | 16:9
+Employer\[HVOC] HVOC DDO 7\Template kết thúc.png             | 1920x1080       | 16:9
+Employer\[HVOC] HVOC DDO 7\Template mở đầu.png               | 1920x1080       | 16:9
+Employer\[HVOC] HVOC DDO 7\Thẻ đeo.png                       | 1650x2580       | 55:86
+Employer\[HVOC] HVOC TAR 8\Thẻ đeo.png                       | 1650x2580       | 55:86
+Employer\[HVOC] Máu đông\[HVOC] Máu đông.png                 | 10000x10000     | 1:1
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Anh (2).png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Anh (3).png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Anh.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Hóa.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Lí.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Sinh.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Sử.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Tin.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Toán.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Văn.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt sau - Chuyên Địa.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Anh (2).png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Anh (3).png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Anh.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Hóa.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Lí.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Sinh.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Sử.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Tin.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Toán.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Văn.png | 2043x1287       | 227:143
+Employer\[REINMAGINED] Thẻ Học sinh CHV\Mặt trước - Chuyên Địa.png | 2043x1287       | 227:143
+Employer\[Đội TNTN] Spotiflyer\Bản đồ khu vực (2).jpg        | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Bản đồ khu vực (3).jpg        | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Bản đồ khu vực (4).jpg        | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Bản đồ khu vực.jpg            | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Bản đồ thế giới (2).jpg       | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Bản đồ thế giới (3).jpg       | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Bản đồ thế giới (4).jpg       | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Bản đồ thế giới.jpg           | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\dãy bd công viên 1 (Đông Bắc - Đông Bắc - Tây - Nam - Đông - Đông Bắc - Tây Nam) (2).jpg | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\dãy bd công viên 1 (Đông Bắc - Đông Bắc - Tây - Nam - Đông - Đông Bắc - Tây Nam).jpg | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Dãy BD công viên 2 (Đông Bắc - Đông - Tây - Bắc - Đông - Nam - Bắc - Đông Bắc - Đông Nam) (2).jpg | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Dãy BD công viên 2 (Đông Bắc - Đông - Tây - Bắc - Đông - Nam - Bắc - Đông Bắc - Đông Nam).jpg | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Luật chơi (2).jpg             | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Luật chơi (3).jpg             | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Luật chơi (4).jpg             | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\Luật chơi.jpg                 | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\nhà đa năng công viên 1 (Tây Bắc - Đông Bắc - Nam - Tây - Bắc - Đông Bắc - Tây Nam) (2).jpg | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\nhà đa năng công viên 1 (Tây Bắc - Đông Bắc - Nam - Tây - Bắc - Đông Bắc - Tây Nam).jpg | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\nhà đa năng công viên 2 (Đông Bắc - Đông - Bắc - Tây - Nam - Đông - Bắc - Đông) (2).jpg | 4704x3255       | 224:155
+Employer\[Đội TNTN] Spotiflyer\nhà đa năng công viên 2 (Đông Bắc - Đông - Bắc - Tây - Nam - Đông - Bắc - Đông).jpg | 4704x3255       | 224:155
+Individual\Bảo vệ môi trường\bảo vệ môi trường.png           | 5000x2500       | 2:1
+Individual\Kỉ yếu\Mặt sau thẻ qua.png                        | 3132x4988       | 27:43
+Individual\Kỉ yếu\Mặt trước thẻ quà.png                      | 3132x4988       | 27:43
+Individual\Kỉ yếu\Thư mời.png                                | 7957x2920       | 109:40
+Individual\Museum of Fine Arts\1.png                         | 5000x5000       | 1:1
+Individual\Museum of Fine Arts\2.png                         | 5000x5000       | 1:1
+Individual\Museum of Fine Arts\3.png                         | 5000x5000       | 1:1
+Individual\Museum of Fine Arts\4.png                         | 5000x5000       | 1:1
+Individual\Museum of Fine Arts\5.png                         | 5000x5000       | 1:1
+Individual\Museum of Fine Arts\6.png                         | 5000x5000       | 1:1
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD16\1.png | 5000x5000       | 1:1
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD16\2.png | 5000x5000       | 1:1
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD16\3.png | 5000x5000       | 1:1
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD16\4.png | 5000x5000       | 1:1
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD16\5.png | 5000x5000       | 1:1
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD16\6.png | 5000x5000       | 1:1
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD16\7.png | 5000x5000       | 1:1
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD16\8.png | 5000x5000       | 1:1
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD17\1.png | 6685x3500       | 191:100
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD17\2.png | 6685x3500       | 191:100
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD17\3.png | 6685x3500       | 191:100
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD17\4.png | 6685x3500       | 191:100
+Individual\Thuan Phat, Boulevard et ville de Da Lat\#BLVD17\5.png | 6685x3500       | 191:100
+Individual\[A2K28] 20_10_2025\[A2K28] 20_10_2025.png         | 10000x10000     | 1:1
