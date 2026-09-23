@@ -1,0 +1,22 @@
+Đường dẫn file                                               | Độ phân giải    | Tỷ lệ (Ratio)
+----------------------------------------------------------------------------------------------------
+Mặt sau - Chuyên Anh (Có thông tin).png                      | 3193x2012       | 3193:2012
+Mặt sau - Chuyên Anh.png                                     | 3193x2012       | 3193:2012
+Mặt sau - Chuyên Hóa.png                                     | 3193x2012       | 3193:2012
+Mặt sau - Chuyên Lí.png                                      | 3193x2012       | 3193:2012
+Mặt sau - Chuyên Sinh.png                                    | 3193x2012       | 3193:2012
+Mặt sau - Chuyên Sử.png                                      | 3193x2012       | 3193:2012
+Mặt sau - Chuyên Tin.png                                     | 3193x2012       | 3193:2012
+Mặt sau - Chuyên Toán.png                                    | 3193x2012       | 3193:2012
+Mặt sau - Chuyên Văn.png                                     | 3193x2012       | 3193:2012
+Mặt sau - Chuyên Địa.png                                     | 3193x2012       | 3193:2012
+Mặt trước - Chuyên Anh (Có thông tin).png                    | 3193x2012       | 3193:2012
+Mặt trước - Chuyên Anh.png                                   | 3193x2012       | 3193:2012
+Mặt trước - Chuyên Hóa.png                                   | 3193x2012       | 3193:2012
+Mặt trước - Chuyên Lí.png                                    | 3193x2012       | 3193:2012
+Mặt trước - Chuyên Sinh.png                                  | 3193x2012       | 3193:2012
+Mặt trước - Chuyên Sử.png                                    | 3193x2012       | 3193:2012
+Mặt trước - Chuyên Tin.png                                   | 3193x2012       | 3193:2012
+Mặt trước - Chuyên Toán.png                                  | 3193x2012       | 3193:2012
+Mặt trước - Chuyên Văn.png                                   | 3193x2012       | 3193:2012
+Mặt trước - Chuyên Địa.png                                   | 3193x2012       | 3193:2012
